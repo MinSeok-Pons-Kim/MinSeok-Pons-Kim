@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
+title: About MinSeok
 permalink: /about/
 ---
 
-Some information about you!
+### Bio
+M.S. Candidate at [KAIST Data Mining Lab](dm.kaist.ac.kr)
+Former Server Engineer at APEXMCN
+B.S. at Hanyang University, Policy Science & Computer Science
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Paper
+[HanAR : Mining Informative Application Korean Reviews From Mobile Application Store]({{ site.baseurl }}/data/HanAR - Mining Informative Application Korean Reviews From Mobile Application Store.pdf)
+
+### Project
+
+Love to hear any tech stories.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[minseokkim@kaist.ac.kr](mailto:minseokkim@kaist.ac.kr)
