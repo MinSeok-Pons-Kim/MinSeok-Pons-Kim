@@ -15,11 +15,17 @@ Ph.D Student at [KAIST Data Mining Lab](dm.kaist.ac.kr)
 ### Previous Lectures & Mentoring
 
 Hankook Tire, Time Series Deep Learning 
+
 Seocho AI Class, Stage 4: AI Project
+
 Seocho AI Class, Stage 3: Deep Learning
+
 Seocho AI Class, Stage 2: Data Structure & Algorithm
+
 Seocho AI Class, Stage 1: Python Programming
+
 LG, AI Special Project 
+
 KB bank, Big Data Professional Course
 
 
