@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About Minseok
+title: Lectures
 permalink: /lectures/
 ---
 
 
-### Lectures & Mentoring
+### Lectures
 
 - Deep Learning (KAIST IT academy): Winter 2019 [\[Lecture Files\]](https://drive.google.com/drive/folders/1h4r8bUZkxyAYZwOqSc75mibD49ktpprx?usp=sharing)
 - AI Program (Hankook Tire Research, Korea): Fall 2019
