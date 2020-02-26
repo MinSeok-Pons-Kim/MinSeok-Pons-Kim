@@ -14,7 +14,7 @@ permalink: /lectures/
   - Stage 3: Deep Learning
   - Stage 2: Data Structure & Algorithm
   - Stage 1: Python Programming
-- Data Processing & Visualization (KAIST IT academy): Summer 2019 [\[Lecture Files\]](https://drive.google.com/drive/folders/1_HGgvZiRmDQ4pKs55S2TaFai2sAc5IXx?usp=sharing)
+- Data Processing & Visualization (KAIST IT academy): Summer 2019 <!-- [\[Lecture Files\]](https://drive.google.com/drive/folders/1_HGgvZiRmDQ4pKs55S2TaFai2sAc5IXx?usp=sharing) -->
 - KAIST Advanced AI Academy (LG, Korea): Spring 2019
 - Data Mining and Knowledge Discovery (KSE525 lecture TA, KAIST, Korea): Spring 2019
 - Analytical Methodologies for Big Data (KSE526 lecture TA, KAIST, Korea): Fall 2018
