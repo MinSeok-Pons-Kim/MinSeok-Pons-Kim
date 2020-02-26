@@ -9,9 +9,11 @@ permalink: /publication/
 
 [2] Song, H., **Kim, M.**, Kim, S., and Lee, J., Carpe Diem, Seize the Samples Uncertain “At the Moment” for Adaptive Batch Selection, In Arxiv: https://arxiv.org/abs/1911.08050.
 
-[3] Park, D., Song, H., **Kim, M.**, and Lee, J., TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data. In Proc. The Web Conference (formerly WWW), Taipei, Taiwan, Apr. 2020 (Top conference in database area, full paper, acceptance rate: 19.2%), To appear.
+[3] Park, D., Song, H., **Kim, M.**, and Lee, J., TRAP: Two-level Regularized Autoencoder-based
+Embedding for Power-law Distributed Data, In Proc. The Web Conference 2020 (TheWebConf), Taipei,
+Taiwan, Apr. 2020 (top conference, full/oral presentation paper, acceptance rate: 19.2%).
 
-[4] Song, H., **Kim, M.**. and Lee, J., SELFIE: Refurbishing Unclean Samples for Robust Deep Learning, In Proceedings of the 2019 International Conference on Machine Learning (ICML), Long Beach, California, June 2019 (top conference in machine learning area, full paper, acceptance rate: 22.6%).
+[4] Song, H., **Kim, M.**. and Lee, J., SELFIE: Refurbishing Unclean Samples for Robust Deep Learning, In Proceedings of the 2019 International Conference on Machine Learning (ICML), Long Beach, California, June 2019 (top conference, full paper, acceptance rate: 22.6%).
 
 [5] Song, H., Kim, S., **Kim, M**. and Lee, J., Ada-Boundary: Accelerating the DNN Training via Adaptive Boundary Batch Selection, In OpenReview: https://openreview.net/forum?id=SyfXKoRqFQ.
 
