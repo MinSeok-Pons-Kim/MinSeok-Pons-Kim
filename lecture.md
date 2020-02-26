@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures
+title: Lecture
 permalink: /lecture/
 ---
 - Deep Learning (KAIST IT academy): Winter 2019 [\[Lecture Files\]](https://drive.google.com/drive/folders/1h4r8bUZkxyAYZwOqSc75mibD49ktpprx?usp=sharing)
