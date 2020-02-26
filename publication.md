@@ -4,8 +4,6 @@ title: Publication
 permalink: /publication/
 ---
 
-# Publication
-
 ## International Conference & Journal
 [1] Song, H., **Kim, M.**, Park, D., and Lee, J., Prestopping: How does Early Stopping can Help Generalization against Label Noise?, In Arxiv: https://arxiv.org/abs/1911.08059.
 
