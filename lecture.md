@@ -1,12 +1,8 @@
 ---
 layout: page
 title: Lectures
-permalink: /lectures/
+permalink: /lecture/
 ---
-
-
-### Lectures
-
 - Deep Learning (KAIST IT academy): Winter 2019 [\[Lecture Files\]](https://drive.google.com/drive/folders/1h4r8bUZkxyAYZwOqSc75mibD49ktpprx?usp=sharing)
 - AI Program (Hankook Tire Research, Korea): Fall 2019
 - Special AI Academy Program (Seocho-gu office, Korea): Summer-Winter 2019
@@ -20,8 +16,3 @@ permalink: /lectures/
 - Analytical Methodologies for Big Data (KSE526 lecture TA, KAIST, Korea): Fall 2018
 - Big Data Professional Course (KB bank, Korea): Summer 2017
 
-
-
-### Contact me
-
-[minseokkim@kaist.ac.kr](mailto:minseokkim@kaist.ac.kr)
